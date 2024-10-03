@@ -1,6 +1,6 @@
 # Introduction to Azure
 
-Getting started with the basics Azure
+Getting started with the basics of Microsoft Azure
 
 Lessons include:
 
